@@ -25,5 +25,9 @@ while True:
     # Quebrar o loop após a execução
     break
 
+# Coletar os dados do usuário
+dum= int(input('Primeiramente, preciso que você digite a data da sua última menstruação:'))
+dhj= int(input('Agora, digite a data de hoje:'))
+
 
 
